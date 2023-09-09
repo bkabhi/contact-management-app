@@ -33,7 +33,7 @@ Welcome to the Contact Management App! This document will guide you through the 
 
    ```bash
    npm run build
-   npm start-dev
+   npm run start-dev
    ```
 
 The backend API should now be running locally on `http://localhost:5000`.
@@ -70,11 +70,11 @@ The backend API should now be running locally on `http://localhost:5000`.
    npm run dev
    ```
 
-The frontend should now be running locally, and you can access it in your browser at `http://localhost:3000`.
+The frontend should now be running locally, and you can access it in your browser at `http://127.0.0.1:5173`.
 
 ## Accessing the App
 
-- The Contact Management App should now be accessible at `http://localhost:3000`.
+- The Contact Management App should now be accessible at `http://127.0.0.1:5173`.
 - You can navigate to the Contact Management and Charts & Maps pages using the paths you've defined in your routing configuration.
 
 ## API Endpoints
